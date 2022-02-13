@@ -1,6 +1,12 @@
-### Hi there 👋
+## Ignacio Noseda
+
+I'm a GIS Analyst passionate about geographic data and spatial data science.
+
+
 
 <!--
+### Hi there 👋
+
 **nachonoseda/nachonoseda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
